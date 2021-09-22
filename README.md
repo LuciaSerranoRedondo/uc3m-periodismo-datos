@@ -20,4 +20,5 @@ tipos de formatos de datos:
 - XML 
 
 Para escribir fechas en github hay que usar este formato: YYYY-MM-DD 2019-09-28
+
 Los datos booleanos son los que son de una posibilidad u otra, como por ejemplo, true or false

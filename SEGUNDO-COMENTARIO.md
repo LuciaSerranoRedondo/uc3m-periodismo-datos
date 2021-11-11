@@ -7,13 +7,13 @@ La primera infografía recogida en el artículo del periódico refleja cómo fue
 
 <img src="img/contagio-escritorio.jpeg">
 
-Esta es la infografía más grande y llamativa de las que acompañan al artículo, que cuenta con una serie de elementos que configuran como completa y detallada:
-- **Texto**: la información más relevante aparece insertada en cuadros y resaltada en negrita y en rojo, orientando al lector. Además, se incluyen en una tonalidad más clara junto a las ilustraciones para explicar lo que muestran.
+Esta es la infografía más grande y llamativa de las que acompañan al artículo, que cuenta con una serie de elementos que la configuran como completa y detallada:
+- **Texto**: la información más relevante aparece insertada en cuadros y resaltada en negrita y en rojo, orientando al lector. Además, se incluyen otras explicaciones en una tonalidad más clara junto a las ilustraciones para explicar lo que muestran.
 - **Imágenes**: son sencillas, basadas en modelaciones 3D, e ilustran de una forma clara lo enunciado en los cuadros de texto. La gama de colores es de gris y se emplea el rojo para resaltar qué partes del dibujo están "infectadas" de COVID.
 - **Línea temporal**: los dibujos representan la sucesión de pasos que durante 7 días llevaron a la infección de la mitad de la clase. Por ello, las imágenes se van sucediendo a lo largo de una serie de puntos denominados: "Día 1", "Día 2", "Dia 3", etc.
 - **Conectores visuales**: unas sencillas flechas grises van guiando al lector de ilustración en ilustración.
 
-A continuación se muestra una de las imégenes de esta primera infografía, para que se pueda apreciar la convergencia de los elementos anteriormente expuestos. 
+A continuación se muestra una de las imágenes de esta primera infografía, para que se pueda apreciar la convergencia de los elementos anteriormente expuestos. 
 
 <img src="img/contagio-2.png">
 
@@ -25,7 +25,7 @@ Esta segunda infografía se vale de los mismos alementos que la anterior, pero s
 
 <img src="img/contagio-infeccion.png">
 
-La tercera infografía de esta pieza periodística refleja el **periodo contagioso de las personas contagiadas por la variante Delta de la COVID 19**, ejemplificado en el caso de la profesora de primaria. El procedimiento para ilustrar esta información es el mismo que en las anteriores infografías: imágenes sencillas de la silueta de la maestra, acompañadas de texto y elementos de representación visual como vectores y flechas. En esta infografía se incluye además una representación gráfica del pico infeccioso de los afectados por coronavirus, por lo que esta infografía tiene un *carácter más estadístico que las anteriores*.
+La tercera infografía de esta pieza periodística refleja el **periodo contagioso de las personas infectadas por la variante Delta de la COVID 19**, ejemplificado en el caso de la profesora de primaria. El procedimiento para ilustrar esta información es el mismo que en las anteriores infografías: imágenes sencillas de la silueta de la maestra, acompañadas de texto y elementos de representación visual como vectores y flechas. En esta infografía se incluye además una representación gráfica del pico infeccioso de los afectados por coronavirus, por lo que esta infografía tiene un *carácter más estadístico que las anteriores*.
 
 Después se muestra una infografía mucho más sencilla, que refleja **qué medidas de contención** se habían adoptado por parte de los implicados para prevenir la infección. En este caso, se muestran miniaturas que representan las diferentes medidas recomendadas por los expertos para evitar la propagación del virus y se indica si se cumplieron (v) o no (x). Se aprecia que al tratarse de una de las últimas infografías del artículo, su grado de relevancia no es tan grande con el de las anteriores, de ahí su menor tamaño y mayor sencillez en el diseño.
 
@@ -35,15 +35,16 @@ A continuación se incluyen unos gráficos interactivos que no van a ser objeto 
 
 <img src="img/contagio-distancia.png">
 
-En ella, se muestra de forma esquemática la **distribución de los contagiados en la clase de la profesora de primaria estadounidense** y se hace una **comparación con una clase en España**. La infografía refleja (mediante los elementos ya explicados anteriormente) cómo en una clase con una distancia de seguridad de 1'8 metros entre pupitres se produjo el contagio de la mitad de los alumnos. Al lado de esta representación esquematizada se incluye la de una clase española, que cuenta con una separación entre mesas de 1'2 metros. *Sin necesidad de mencionarlo explícitamente*, el lector comprende que, si en Estados Unidos se contagiaron la mitad de alumnos de la clase, en España, donde la distancia es aún menos, el riesgo es mucho más alto. De esta manera se conecta con el título del artículo: *Lecciones para la vuelta al colegio*.
+En ella, se muestra de forma esquemática la **distribución de los contagiados en la clase de la profesora de primaria estadounidense** y se hace una **comparación con una clase en España**. La infografía refleja (mediante los elementos ya explicados anteriormente) cómo en un aula con una distancia de seguridad de 1'8 metros entre pupitres se produjo el contagio de la mitad de los alumnos. Al lado de esta representación esquematizada se incluye la de una clase española, que cuenta con una separación entre mesas de 1'2 metros. *Sin necesidad de mencionarlo explícitamente*, el lector comprende que, si en Estados Unidos se contagiaron la mitad de alumnos de la clase, en España, donde la distancia es aún menor, el riesgo es mucho más alto. De esta manera se conecta con el título del artículo: *Lecciones para la vuelta al colegio*.
 
 ## ANÁLISIS
 A la hora de valorar la calidad de esta infografía hay que tener en cuenta que va inserta en un artículo escrito de un medio digital, de lo que se derivan dos consecuencias:
 1. El conjunto de infografías a comentar no tiene carácter autónomo, sino que sirven como complemento de un texto periodístico.
-2. Al insertarse por separado a lo largo del artículo, la jerarquización visual de la información se deja a un lado y la importancia de las diferentes partes de la infografía viene dada por su emplazamiento en el artículo: cuanto antes aparezcan, más relevancia tendrán (siguiendo la estrcutura tradicional de la pirámide informativa).
+2. Al insertarse por separado a lo largo del artículo, la jerarquización visual de la información se deja a un lado y la importancia de las diferentes partes de la infografía viene dada por su emplazamiento en el artículo: cuanto antes aparezcan, más relevancia tendrán (siguiendo la estructura tradicional de la pirámide informativa).
 
-Como acompañamiento y complemento del texto informativo, esta infografía funciona muy bien. Sirve como descanso en la lectura mostrando los datos de una manera diferente y más dinámica. En este sentido, la sencillez de las ilustraciones y los elementos que las acompañan resultan muy positivos, puesto que no las infografías no distraen al lector ni tampoco lo saturan con excesivos adornos y complejidades gráficas. En este sentido, se podría objetar que esta infografía no incorpora elementos dinámicos ni animaciones, sino que se vale de ilustraciones estáticas (no como las gráficas que también se incluyen en el artículo).
-Finalmente,para concluir, se puede destacar que esta infografía cuenta con los **elementos básicos** que se esperan en este tipo de formatos:
+Como acompañamiento y complemento del texto informativo, esta infografía funciona muy bien. Sirve como descanso en la lectura mostrando los datos de una manera diferente y más dinámica. En este sentido, la sencillez de las ilustraciones y los elementos que las acompañan resultan muy positivos, puesto que las infografías no distraen al lector ni tampoco lo saturan con excesivos adornos y complejidades en el diseño. En este sentido, se podría objetar que esta infografía no incorpora elementos dinámicos ni animaciones, sino que se vale de ilustraciones estáticas (no como las gráficas que también se incluyen en el artículo).
+
+Finalmente, para concluir, se puede destacar que esta infografía cuenta con los **elementos básicos** que se esperan en este tipo de formatos:
 - Finalidad informativa
 - Convergencia de texto e imágenes para aprovechar y combinar sus propiedades expresivas. 
 

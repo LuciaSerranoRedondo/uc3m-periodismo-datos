@@ -46,4 +46,5 @@ Como acompañamiento y complemento del texto informativo, esta infografía funci
 Finalmente,para concluir, se puede destacar que esta infografía cuenta con los **elementos básicos** que se esperan en este tipo de formatos:
 - Finalidad informativa
 - Convergencia de texto e imágenes para aprovechar y combinar sus propiedades expresivas. 
+
 De esta manera, se aprovechan las características de diferentes tipos de lenguajes para crear un mensaje lo más completo y atractivo posible sobre la transmisión del coronavirus con una clara intención: *advertir de los peligros de la vuelta al colegio si no se respetan las medidas de contención estipuladas por las autoridades sanitarias*.

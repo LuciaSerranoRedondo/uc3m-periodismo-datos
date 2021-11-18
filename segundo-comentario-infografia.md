@@ -1,8 +1,8 @@
-# COMENTARIO SOBRE LA INFOGRAFIA 'EL CASO DE LOS 12 NIÑOS CONTAGIDOS DE COVID POR SU PROFESORA'
+# Comentario sobre la infografia 'El caso de los 12 niños contagiados de covid por su profesora'
 
 El presente comentario pretende analizar la infografía publicada en el diario *El País* el 12 de septiembre de 2021, la cual detalla el proceso por el cual una profesora contagió a 12 de sus alumnos e inició un brote de la variante Delta de coronavirus que afectó a 27 personas.
 
-## DESCRIPCIÓN
+## Descripción
 La primera infografía recogida en el artículo del periódico refleja cómo fue el **proceso de infección y transmisión del virus de la maestra hacia los estudiantes**. Aunque en la imagen indexada sólo se vean los dibujos, en el artículo (https://elpais.com/ciencia/2021-09-12/el-caso-de-los-12-niños-contagiados-de-covid-por-su-profesora-lecciones-para-la-vuelta-al-cole.html) los dibujos van acompañados de explicaciones y una línea temporal que detalla paso por paso (por días) cómo se produjo la infección directa. 
 
 <img src="img/contagio-escritorio.jpeg">
@@ -37,7 +37,7 @@ A continuación se incluyen unos gráficos interactivos que no van a ser objeto 
 
 En ella, se muestra de forma esquemática la **distribución de los contagiados en la clase de la profesora de primaria estadounidense** y se hace una **comparación con una clase en España**. La infografía refleja (mediante los elementos ya explicados anteriormente) cómo en un aula con una distancia de seguridad de 1'8 metros entre pupitres se produjo el contagio de la mitad de los alumnos. Al lado de esta representación esquematizada se incluye la de una clase española, que cuenta con una separación entre mesas de 1'2 metros. *Sin necesidad de mencionarlo explícitamente*, el lector comprende que, si en Estados Unidos se contagiaron la mitad de alumnos de la clase, en España, donde la distancia es aún menor, el riesgo es mucho más alto. De esta manera se conecta con el título del artículo: *Lecciones para la vuelta al colegio*.
 
-## ANÁLISIS
+## Análisis
 A la hora de valorar la calidad de esta infografía hay que tener en cuenta que va inserta en un artículo escrito de un medio digital, de lo que se derivan dos consecuencias:
 1. El conjunto de infografías a comentar no tiene carácter autónomo, sino que sirven como complemento de un texto periodístico.
 2. Al insertarse por separado a lo largo del artículo, la jerarquización visual de la información se deja a un lado y la importancia de las diferentes partes de la infografía viene dada por su emplazamiento en el artículo: cuanto antes aparezcan, más relevancia tendrán (siguiendo la estructura tradicional de la pirámide informativa).

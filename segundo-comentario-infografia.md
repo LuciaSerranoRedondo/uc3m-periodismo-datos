@@ -1,6 +1,6 @@
 # Comentario sobre la infografia 'El caso de los 12 niños contagiados de covid por su profesora'
 
-- Mariano Zafra y Manuel Ansede para *El País*. Publicada el 12 de septiembre de 2021. [Enlace] (https://elpais.com/ciencia/2021-09-12/el-caso-de-los-12-niños-contagiados-de-covid-por-su-profesora-lecciones-para-la-vuelta-al-cole.html)
+- Mariano Zafra y Manuel Ansede para *El País*. Publicada el 12 de septiembre de 2021. [Enlace](https://elpais.com/ciencia/2021-09-12/el-caso-de-los-12-niños-contagiados-de-covid-por-su-profesora-lecciones-para-la-vuelta-al-cole.html)
 
 El presente comentario pretende analizar la infografía publicada en el diario *El País* el 12 de septiembre de 2021, la cual detalla el proceso por el cual una profesora contagió a 12 de sus alumnos e inició un brote de la variante Delta de coronavirus que afectó a 27 personas.
 

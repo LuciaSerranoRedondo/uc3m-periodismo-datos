@@ -31,17 +31,20 @@ Mediante la fórmula SUMAR.SI se ha llevado a cabo un sumatorio del total de twe
 <img src="img/felices-fiestas.png">
 
 El primer gráfico muestra la **evolución del "hashtag" #FelicesFiestas** en la red social y refleja que las interacciones con este tema comienzan a finales de noviembre y se disparan a mediados de diciembre, por lo que vemos que *no se corresponde exclusivamente con la Navidad cristiana*.
+
 Se ha escogido un **gráfico lineal** para ilustrar estos datos, porque este tipo de representación es la que mejor refleja *patrones y tendencias*, de tal manera que posibilita el *análisis de cómo un tipo de dato ha ido cambiando a lo largo del tiempo*. En este caso, muestra cómo han ido variando las publicaciones de Twitter relativas a un tema en un intervalo temporal. 
 
 
 <img src="img/celebraciones.png">
 
 El siguiente gráfico muestra cuáles son las **celebraciones en las que la gente desea un feliz devenir de las mismas al resto de usuarios** en Twitter. Vemos que la *Navidad* le lleva una clara ventaja al resto, seguida del Año Nuevo y, relacionado también con esta celebración, el 2021. En el caso de la Semana Santa, se aunaron todos los hashtags de las diferentes festividades semanales en uno solo para hacer un recuento general de este acontecimiento. 
+
 Los datos se recogen en un **gráfico de barras**, porque éste facilita la *comparación de diferentes categorías* de la forma más sencilla posible y, al no haber un número elevado de tipos de mensajes, la presentación no resulta recargada y difícil de comprender. Aunque Datawrapper dé por defecto al gráfico un estilo monocromático de una gama de colores similares, se ha personalizado el estilo para presentarlo con *colores distintos, que no se puedan confundir entre ellos*, para que la visualización sea lo más sencilla posible.
 
 
 <img src="img/papa-o-mama.png">
 
 Este gráfico refleja la **diferencia en el número de tweets de felicitación subidos el Día del Padre y el Día de la Madre**. Vemos que hay una ligera diferencia en los "tweets" publicados ambos días, con las *madres en primera posición* para recibir el amor filial por la red social Twitter.
+
 La elección del **gráfico circular** se justifica porque éste permite al lector obtener una rápida idea sobre la *distribución proporcional de los datos*. Al tratarse de una comparación en base al género, existen sólo dos categorías, por lo que los datos se entienden de forma precisa e instantánea. Además, se han escogido los colores que se asignan tradicional y popularmente a cada uno de los géneros, para que el *mensaje se capta al instante*, con la primera visualización.
 

@@ -32,7 +32,7 @@ Mediante la fórmula SUMAR.SI se ha llevado a cabo un sumatorio del total de twe
 
 El primer gráfico muestra la evolución del hashtag #FelicesFiestas en la red social y refleja que las interacciones con este tema comienzan a finales de noviembre y se disparan a mediados de diciembre, por lo que vemos que no se corresponde exclusivamente con la Navidad cristiana.
 
-![Gráfico](https://datawrapper.dwcdn.net/hJdcH/2/.html)
+<img src="img/felices-fiestas.png">
 
 Se ha escogido un gráfico lineal para ilustrar estos datos, porque este tipo de representación es la que mejor refleja patrones y tendencias, de tal manera que posibilita el análisis de cómo un tipo de dato ha ido cambiando a lo largo del tiempo. En este caso, muestra cómo han ido variando las publicaciones de Twitter relativas a un tema en un intervalo temporal. 
 

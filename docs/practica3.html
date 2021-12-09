@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="es" class="h-100">
+<!-- Cambio el idioma de "en" a "es" --> 
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Trabajo final de la asignatura Periodismo de Datos</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
+
+    
+
+    <!-- Bootstrap core CSS, la hoja de estilo básica de bootstrap, la he puesto en la carpeta css -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="css/sticky-footer-navbar.css" rel="stylesheet">
+  </head>
+  <body class="d-flex flex-column h-100">
+    
+<header>
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Fixed navbar</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled">Disabled</a>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Begin page content -->
+<main class="flex-shrink-0">
+  <div class="container">
+
+<h1 id="qué-celebraciones-tienen-más-peso-en-twitter">3. ¿Qué celebraciones tienen más peso en Twitter?</h1>
+<p>El presente trabajo presenta los resultados del tratamiento de los datos de <em>TRESCA</em>, que muestran las publicaciones relacionadas con <strong>la felicidad en Twitter</strong> en un periodo de tiempo concreto. En este caso, se presentarán datos relacionados con el número de tweets publicados en las diferentes <strong>fiestas y celebraciones en España</strong>. Para obtener el resultado final, se ha trabajado con <em>OpenRefine y Datawrapper</em>.</p>
+<h2 id="presentación-de-los-datos">Presentación de los datos</h2>
+<p>Las redes sociales han pasado a ser un aspecto central de nuestro día a día, y Twitter no es una excepción. Acudimos a ella para contar cómo nos sentimos: enfadados, tristes, inseguros, animados, felices… y para transmitir esas emociones al resto de usuarios. Las demostraciones de amor y felicidad son una constante en la red y muchos no pierden el tiempo cuando llega una fecha señalada para felicitarle el día al resto de twitteros, por lo que en algunos momentos del año esta red social se llena de mensajes que transmiten los buenos deseos de los usuarios para con sus seguidores. Atendiendo a las dinámicas que se generan en cuanto a interacción con las fiestas y celebraciones en España, se puede arrojar una imagen sobre cuáles son las preferencias de los usuarios de la red social Twitter a la hora de felicitar las festividades a sus compañeros.</p>
+<p>El “hashtag” por antonomasia en lo que se refiere a este tema es el de <strong>#FelicesFiestas</strong>. Se aprecia que su uso comienza a <em>finales de noviembre</em> y va manteniéndose constante hasta mediados de diciembre, cuando hay un pico de notable intensidad, seguido de un descenso. Aunque en España la religión mayoritaria sea la católica, vemos que se empieza twittear #FelicesFiestas un mes antes de que comiencen las festividades nadideñas propiamente dichas.</p>
+<figure>
+<img src="/img/felices-fiestas.png" alt="felices-fiestas.png" /><figcaption aria-hidden="true">felices-fiestas.png</figcaption>
+</figure>
+<p>Aunque se pueda pensar que esto es extraño, lo cierto es que tanto Hanukkah como Acción de gracias tienen lugar a finales de noviembre, por lo que se le puede atribuir a estas fiestas procedentes de otros países y de religiones con menor presencia en el país la aparición temprana del “hashtag”. Esto demuestra que lo que la población considera <em>el periodo tradicional de fiestas</em> empieza mucho antes de lo que se podría imaginar en un primer momento y no abarca sólo los ritos cristianos, sino que <em>también comprende otras culturas y tradiciones</em>.</p>
+<p>Sin embargo, si se atiende al número de “tweets” publicados por cada “hashtag” concreto, es evidente que <strong>la Navidad es la indiscutible protagonista de las fiestas para los españoles</strong>, al menos en redes sociales.</p>
+<figure>
+<img src="/img/celebraciones.png" alt="celebraciones.png" /><figcaption aria-hidden="true">celebraciones.png</figcaption>
+</figure>
+<p>A continuación de la Navidad, las fiestas más twitteadas son <strong>el Año Nuevo y el 2021</strong>, por lo que se aprecia que las felicitaciones festivas en Twitter se concentran en el periodo de finales de diciembre y principios de enero. Podría entenderse que esto se debe a un mayor tiempo para twittear durante las vacaciones, pero en Semana Santa también hay días no laborables y sus cifras están muy por detrás. Se puede concluir por tanto que <em>el espíritu que se respira durante esta época del año puede animar a los usuarios a compartir su alegría y esperanzas con el resto de internautas</em>.</p>
+<p>Este estado de ánimo colectivo no se debe únicamente al carácter religioso de la Navidad, ya que la celebración del nuevo año no tiene un componente cristiano. Además, como ya se ha señalado anteriormente, la Semana Santa, la festividad más importante del cristianismo, ni se acerca a las interacciones de estas otras fiestas. En este sentido, hay que precisar que para hacer el recuento de los “tweets” publicados para felicitar la Pascua se aunaron los “hashtags” de todas las diferentes festividades semanales en uno solo para hacer un recuento general de esta celebración religiosa.</p>
+<p>Por lo tanto, se aprecia que a la hora de felicitar los diferentes tipos de fiestas en España en Twitter, <em>los usuarios se dejan guiar más por el sentimiento que provocan en ellos las diferentes celebraciones que por la tradición</em>. En lo relativo a este aspecto y relacionado con la incorporación a las costumbres de los españoles de festividades extranjeras, destaca también la aparición de <strong>Halloween</strong> entre las fiestas que más interacciones suman. Tratándose de una celebración anglosajona, que no tenía una presencia relevante en España hace unas décadas, es notable su presencia entre los “hashtags” más empleados por los españoles, mientras que la festividad del Día de Todos los Santos -la que se celebra tradicionalmente en España- no cuenta con el mismo seguimiento.</p>
+<p>Por último, hay que atender concretamente a la <strong>diferencia de interacciones en los hashtags de #FelizDiaDeLaMadre y #FelizDiaDelPadre</strong>.</p>
+<figure>
+<img src="/img/papa-o-mama.png" alt="papa-o-mama.png" /><figcaption aria-hidden="true">papa-o-mama.png</figcaption>
+</figure>
+<p>Vemos que hay una diferencia en los “tweets” publicados ambos días, con las <em>madres en primera posición</em> para recibir el amor filial por la red social Twitter. Esto refleja que, aunque en los últimos años se haya avanzado en materia de igualdad en pareja, se sigue apreciando que existe una mayor conexión con las madres, o al menos así se refleja en Twitter.</p>
+<h2 id="el-tratamiento-de-los-datos">El tratamiento de los datos</h2>
+<p>En <strong>OpenRefine</strong> se ha realizado una <em>selección de los datos</em> que resultaban más interesantes para estos gráficos. Así, se han descartado todos los “hashtags” que no tuviesen relación con festividades o celebraciones. Además, mediante la opción de “cluster” se han unido todos los “tweets” que hacían referencia al mismo acontecimiento y se ha editado el nombre de algunas publicaciones, como por ejemplo <em>Feliz y Santa Navidad</em> para a agruparlas en la misma categoría, en este caso <em>#FelizNavidad</em>. Por otra parte, se han acotado los datos que figurarán en los gráficos a un año mediante una <em>faceta de línea del tiempo</em>, puesto que así no se corría el riesgo de contabilizar los datos de dos años en algunas festividades.</p>
+<figure>
+<img src="/img/refine-fecha.png" alt="refine-fecha.png" /><figcaption aria-hidden="true">refine-fecha.png</figcaption>
+</figure>
+<p>Por otra parte, dado que para el trabajo que se pretendía exponer lo más relevante era la cantidad de veces que se había twitteado sobre un tema, se eliminaron también las filas cuyo número de “tweets” no apareciese. Para ello, se ha empleado una <em>faceta por datos nulos</em>, que separa filas en blanco y rellenas.</p>
+<figure>
+<img src="/img/refine-numero.png" alt="refine-numero.png" /><figcaption aria-hidden="true">refine-numero.png</figcaption>
+</figure>
+<p>En el caso de los datos sobre la progresión en el tiempo de #FelicesFiestas el refinado de datos mediante OpenRefine estaba listo. Sin embargo, para los otros dos gráficos se necesitaba realizar un <em>sumatorio de todas las veces que se había twitteado cada uno de los hashtags</em>. Para ello, se eliminó la columna de las fechas, puesto que lo que se quería mostrar era la cantidad de “tweets” publicados a lo largo de todo un año, independientemente del momento en el que se hubiesen escrito. A continuación, en la columna en la que figuraban los diferentes hashtags se aplicó un <em>blankdown</em> que hizo que quedasen sólo 8 valores:</p>
+<ul>
+<li>#Feliz2021</li>
+<li>#FelizAñoNuevo</li>
+<li>#FelizDiaDeLaMadre</li>
+<li>#FelizDiaDelPadre</li>
+<li>#FelizDiaDelTrabajador</li>
+<li>#FelizHalloween</li>
+<li>#FelizNavidad</li>
+<li>#FelizSemanaSanta</li>
+</ul>
+<p>Una vez hecho esto, sobre la columna en la que figuraba desglosado el número de “tweets” que se habían publicado por cada “hashtag”, se añadió otra columna en base a ella, utilizando la fórmula: <em>row.record.cells[‘Numero’].value.sum()</em>. De esta manera y aplicando una faceta de texto sobre la columna en la que aparecían los “hasghtags” se consiguió un <em>recuento del total de tweets publicados sobre un mismo tema</em>.</p>
+<figure>
+<img src="/img/refine-sumatorio.png" alt="refine-sumatorio.png" /><figcaption aria-hidden="true">refine-sumatorio.png</figcaption>
+</figure>
+<p>Habiendo acotado los datos mediante OpenRefine, en <strong>Datawrapper</strong> se editaron los gráficos siguiendo una serie de criterios para la elección del tipo de gráfico más adecuado para cada caso.</p>
+<h3 id="justificación-de-la-elección-de-los-gráficos">Justificación de la elección de los gráficos</h3>
+<ol type="1">
+<li><p>Se ha escogido un <strong>gráfico lineal</strong> para ilustrar los datos sobre la <strong>progresión del “hashtag” Felices Fiestas</strong>, porque este tipo de representación es la que mejor refleja <em>patrones y tendencias</em>, de tal manera que posibilita el <em>análisis de cómo un tipo de dato ha ido cambiando a lo largo del tiempo</em>. En este caso, muestra cómo han ido variando las publicaciones de Twitter relativas a un tema en un intervalo temporal.</p></li>
+<li><p>Los datos realtivos al <strong>número de “tweets” publicados en cada festividad</strong> se recogen en un <strong>gráfico de barras</strong>, porque éste facilita la <em>comparación de diferentes categorías</em> de la forma más sencilla posible y, al no haber un número elevado de tipos de mensajes, la presentación no resulta recargada y difícil de comprender. Aunque Datawrapper dé por defecto al gráfico un estilo monocromático de una gama de colores similares, se ha personalizado el estilo para presentarlo con <em>colores distintos, que no se puedan confundir entre ellos</em>, para que la visualización sea lo más sencilla posible.</p></li>
+<li><p>La elección del <strong>gráfico circular</strong> para la <strong>comparación de “tweets” del Día de la Madre y del Día del Padre</strong> se justifica porque éste permite al lector obtener una rápida idea sobre la <em>distribución proporcional de los datos</em>. Al tratarse de una comparación en base al género, existen sólo dos categorías, por lo que los datos se entienden de forma precisa e instantánea. Además, se han escogido los colores que se asignan tradicional y popularmente a cada uno de los géneros, para que el <em>mensaje se capte al instante</em>, con la primera visualización.</p></li>
+</ol>
+
+    <h1 class="mt-5">Sticky footer with fixed navbar</h1>
+    <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
+    <p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+  </div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container">
+    <span class="text-muted">Place sticky footer content here.</span>
+  </div>
+</footer>
+
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>

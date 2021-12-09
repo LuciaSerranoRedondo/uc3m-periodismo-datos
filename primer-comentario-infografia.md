@@ -11,7 +11,6 @@ Además de la cifra del tanto por ciento de población con una opinión desfavor
 
 El principal *problema de esta infografía son sus datos*. Mientras que, gracias a su representación, la visualización de la información es muy buena, los datos son engañosos, puesto que sólo se aportan cifras relativas a países occidentales o de su órbita en Asia. Al no contar con datos de países de América Latina, África y la mayor parte de Asia, la conclusión de que China ya no cae bien es parcial y reducida a una órbita pequeña del mundo, pero esto no se especifica en ninguna parte de la infografía.
 
-![Opinion desfavorable sobre china mundo](https://user-images.githubusercontent.com/90276578/138884625-af3daac1-1d58-493c-a803-e53e3dfb7103.png)
-
+<img src="img/opinion-desfavorable-sobre-china-mundo.png">
 
 [Enlace](https://elordenmundial.com/mapas/opinion-mundo-sobre-china/) 

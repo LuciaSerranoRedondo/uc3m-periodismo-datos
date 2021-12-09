@@ -8,13 +8,13 @@ Las redes sociales han pasado a ser un aspecto central de nuestro día a día, y
 
 El "hashtag" por antonomasia en lo que se refiere a este tema es el de **#FelicesFiestas**. Se aprecia que su uso comienza a *finales de noviembre* y va manteniéndose constante hasta mediados de diciembre, cuando hay un pico de notable intensidad, seguido de un descenso. Aunque en España la religión mayoritaria sea la católica, vemos que se empieza twittear #FelicesFiestas un mes antes de que comiencen las festividades nadideñas propiamente dichas.
 
-<img src="img/felices-fiestas.png">
+![felices-fiestas.png](/img/felices-fiestas.png)
 
 Aunque se pueda pensar que esto es extraño, lo cierto es que tanto Hanukkah como Acción de gracias tienen lugar a finales de noviembre, por lo que se le puede atribuir a estas fiestas procedentes de otros países y de religiones con menor presencia en el país la aparición temprana del "hashtag". Esto demuestra que lo que la población considera *el periodo tradicional de fiestas* empieza mucho antes de lo que se podría imaginar en un primer momento y no abarca sólo los ritos cristianos, sino que *también comprende otras culturas y tradiciones*.
 
 Sin embargo, si se atiende al número de "tweets" publicados por cada "hashtag" concreto, es evidente que **la Navidad es la indiscutible protagonista de las fiestas para los españoles**, al menos en redes sociales. 
 
-<img src="img/celebraciones.png">
+![celebraciones.png](/img/celebraciones.png)
 
 A continuación de la Navidad, las fiestas más twitteadas son **el Año Nuevo y el 2021**, por lo que se aprecia que las felicitaciones festivas en Twitter se concentran en el periodo de finales de diciembre y principios de enero. Podría entenderse que esto se debe a un mayor tiempo para twittear durante las vacaciones, pero en Semana Santa también hay días no laborables y sus cifras están muy por detrás. Se puede concluir por tanto que *el espíritu que se respira durante esta época del año puede animar a los usuarios a compartir su alegría y esperanzas con el resto de internautas*.
 
@@ -24,7 +24,7 @@ Por lo tanto, se aprecia que a la hora de felicitar los diferentes tipos de fies
 
 Por último, hay que atender concretamente a la **diferencia de interacciones en los hashtags de #FelizDiaDeLaMadre y #FelizDiaDelPadre**.
 
-<img src="img/papa-o-mama.png">
+![papa-o-mama.png](/img/papa-o-mama.png)
 
 Vemos que hay una diferencia en los "tweets" publicados ambos días, con las *madres en primera posición* para recibir el amor filial por la red social Twitter. Esto refleja que, aunque en los últimos años se haya avanzado en materia de igualdad en pareja, se sigue apreciando que existe una mayor conexión con las madres, o al menos así se refleja en Twitter.
 
@@ -33,11 +33,11 @@ Vemos que hay una diferencia en los "tweets" publicados ambos días, con las *ma
 
 En **OpenRefine** se ha realizado una *selección de los datos* que resultaban más interesantes para estos gráficos. Así, se han descartado todos los "hashtags" que no tuviesen relación con festividades o celebraciones. Además, mediante la opción de "cluster" se han unido todos los "tweets" que hacían referencia al mismo acontecimiento y se ha editado el nombre de algunas publicaciones, como por ejemplo *Feliz y Santa Navidad* para a agruparlas en la misma categoría, en este caso *#FelizNavidad*. Por otra parte, se han acotado los datos que figurarán en los gráficos a un año mediante una *faceta de línea del tiempo*, puesto que así no se corría el riesgo de contabilizar los datos de dos años en algunas festividades.
 
-<img src="img/refine-fecha.png">
+![refine-fecha.png](/img/refine-fecha.png)
 
 Por otra parte, dado que para el trabajo que se pretendía exponer lo más relevante era la cantidad de veces que se había twitteado sobre un tema, se eliminaron también las filas cuyo número de "tweets" no apareciese. Para ello, se ha empleado una *faceta por datos nulos*, que separa filas en blanco y rellenas. 
 
-<img src="img/refine-numero.png">
+![refine-numero.png](/img/refine-numero.png)
 
 En el caso de los datos sobre la progresión en el tiempo de #FelicesFiestas el refinado de datos mediante OpenRefine estaba listo. Sin embargo, para los otros dos gráficos se necesitaba realizar un *sumatorio de todas las veces que se había twitteado cada uno de los hashtags*. Para ello, se eliminó la columna de las fechas, puesto que lo que se quería mostrar era la cantidad de "tweets" publicados a lo largo de todo un año, independientemente del momento en el que se hubiesen escrito. A continuación, en la columna en la que figuraban los diferentes hashtags se aplicó un *blankdown* que hizo que quedasen sólo 8 valores:
 
@@ -52,7 +52,7 @@ En el caso de los datos sobre la progresión en el tiempo de #FelicesFiestas el 
 
 Una vez hecho esto, sobre la columna en la que figuraba desglosado el número de "tweets" que se habían publicado por cada "hashtag", se añadió otra columna en base a ella, utilizando la fórmula: *row.record.cells['Numero'].value.sum()*. De esta manera y aplicando una faceta de texto sobre la columna en la que aparecían los "hasghtags" se consiguió un *recuento del total de tweets publicados sobre un mismo tema*.
 
-<img src="img/refine-sumatorio.png">
+![refine-sumatorio.png](/img/refine-sumatorio.png)
 
 Habiendo acotado los datos mediante OpenRefine, en **Datawrapper** se editaron los gráficos siguiendo una serie de criterios para la elección del tipo de gráfico más adecuado para cada caso.
 

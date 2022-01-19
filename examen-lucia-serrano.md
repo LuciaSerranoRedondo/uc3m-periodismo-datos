@@ -5,7 +5,7 @@ Periodismo y Humanidades
 Grupo 61
 
 
-#Examen Periodismo de Datos
+# Examen Periodismo de Datos
 
 **100. ¿Quién es Philip Meyer?**
 
@@ -32,9 +32,9 @@ Internet es una red de ordenadores que se distribuyen por todo el mundo y están
 
 **8. ¿Qué saberes están implicados en el periodismo de datos?**
 
-El periodismo de investigación, puesto que se precisa de un trabajo intenso y extenso para presentar los proyectos de periodismo de datos. No se trata de una mera labor periodística informativa como puede ser la elaboración de noticias.
-Los datos o grandes bases de datos, que deben almacenarse y tratarse medianteel uso de computadores. Una gran cantidad de datos es fundamental en el periodismo de datos porque implica una mayor cantidad de información que presentar al público.
-La visualización de datos, uno de las facetas más importantes en el periodismo de datos, porque hace comprensibles los datos al público de una manera rápida y sencilla. 
+- El periodismo de investigación, puesto que se precisa de un trabajo intenso y extenso para presentar los proyectos de periodismo de datos. No se trata de una mera labor periodística informativa como puede ser la elaboración de noticias.
+- Los datos o grandes bases de datos, que deben almacenarse y tratarse medianteel uso de computadores. Una gran cantidad de datos es fundamental en el periodismo de datos porque implica una mayor cantidad de información que presentar al público.
+- La visualización de datos, uno de las facetas más importantes en el periodismo de datos, porque hace comprensibles los datos al público de una manera rápida y sencilla. 
 
 **3. Cuando hablamos de periodismo o visualización de datos, ¿a qué datos nos referimos?**
 
@@ -42,16 +42,16 @@ Los datos pueden ser de muchos tipos: numéricos, de texto, estructurados, no es
 
 **11. ¿Qué tipos de datos hay?**
 
-Númericos: son aquellos con los que se pueden hacer operaciones matemáticas. Pueden ser a su vez de varios tipos. Las datos interger son números enteros sin decimales. Los datos decimales son, como su nombre indica, números con decimales. Los datos float o double son números con una gran cantidad de decimales y/o variables en su longitud. Los datos de fecha indican fecha, y existe una variante que son los datos periódicos. 
-Strings: cadena de caracteres de texto. 
-Booleanos: representan valores de lógica binario, como "Verdadero" o "Falso" o "Sí" o "No".
+- Númericos: son aquellos con los que se pueden hacer operaciones matemáticas. Pueden ser a su vez de varios tipos. Las datos interger son números enteros sin decimales. Los datos decimales son, como su nombre indica, números con decimales. Los datos float o double son números con una gran cantidad de decimales y/o variables en su longitud. Los datos de fecha indican fecha, y existe una variante que son los datos periódicos. 
+- Strings: cadena de caracteres de texto. 
+- Booleanos: representan valores de lógica binario, como "Verdadero" o "Falso" o "Sí" o "No".
 
 **12. Elige una URL de un medio de comunicación y explícala como lo hicimos en clase.**
 
 https://elpais.com/educacion/2022-01-19/los-protocolos-contra-el-suicidio-entran-en-la-escuela-los-padres-no-saben-lo-que-pasa-en-el-cuerpo-de-sus-hijos.html
-https es el protocolo usado para diseñar e integrar el software de las aplicaciones, y la s indica que se trata de un sitio seguro. El protocolo se separa del dominio mediante ://
-elpais.com es el dominio de la URL. Se lee de derecha a izquierda en orden de importancia, por lo cual .com sería el *Top Level Domain* o dominio de primer nivel.
-Lo que aparece a la derecha de la barra (/) después de .com es la estructura de carpetas del servidor web. En ella se especifica la sección del periódico en la que se inserta el artículo (educación), la fecha en la que se ha publicado (2022-01-19) y el nombre del mismo.
+- https es el protocolo usado para diseñar e integrar el software de las aplicaciones, y la s indica que se trata de un sitio seguro. El protocolo se separa del dominio mediante ://
+- elpais.com es el dominio de la URL. Se lee de derecha a izquierda en orden de importancia, por lo cual .com sería el *Top Level Domain* o dominio de primer nivel.
+- Lo que aparece a la derecha de la barra (/) después de .com es la estructura de carpetas del servidor web. En ella se especifica la sección del periódico en la que se inserta el artículo (educación), la fecha en la que se ha publicado (2022-01-19) y el nombre del mismo.
 
 **14. ¿Qué relación tiene el formato CSV con Excel?**
 
@@ -99,15 +99,15 @@ Una API es el conjunto de definiciones y protocoles empleados para diseñar e in
 
 **82. Explica la URL https://github.com/pontedatos/uc3m-periodismo-datos**
 
-https es el protocolo usado para diseñar e integrar el software de las aplicaciones y la S indica que se trata de un sitio seguro. La separación del protocolo y el dominio la marca ://
-github.com es el dominio de la URL, que se lees de derecha a izquierda en orden de importancia, por lo que .com sería el *Top Level Domain* o dominio de primer nivel.
-Lo que aparece a la derecha de la barra (/) a continuación de .com es la estrcutura de carpetas del servidor web. /pontedatos/ es una organización dentro de Github y /uc3m-periodismo-datos es un repositorio dentro de la organización. 
+- https es el protocolo usado para diseñar e integrar el software de las aplicaciones y la S indica que se trata de un sitio seguro. La separación del protocolo y el dominio la marca ://
+- github.com es el dominio de la URL, que se lees de derecha a izquierda en orden de importancia, por lo que .com sería el *Top Level Domain* o dominio de primer nivel.
+- Lo que aparece a la derecha de la barra (/) a continuación de .com es la estrcutura de carpetas del servidor web. /pontedatos/ es una organización dentro de Github y /uc3m-periodismo-datos es un repositorio dentro de la organización. 
 
 **83. Apunta tres comandos que hayas utilizado y para qué.**
 
--whoami devuelve el nombre de usuario
--pwd indica dónde nos encontramos
--ls lista los elementos de un directorio
+- whoami devuelve el nombre de usuario
+- pwd indica dónde nos encontramos
+- ls lista los elementos de un directorio
 
 **71. Para qué usas cd y cómo.**
 
@@ -147,9 +147,9 @@ Para ver todos los dialectos de shell disponibles basta con poner en la terminal
 
 **16. ¿Qué tipos de formatos de datos hay? ¿Que similitudes y diferencias tienen?**
 
--SV o valores separados por cualquier valor, aunque los más comunes son los CSV. Son los más sencillos, pero también los menos estandarizados. La mayoría de los recursos disponibles en los catálogos de Datos Abiertos se encuentran en formato CSV.
--JSON o JavaScript Object Notation. Son los ficheros que mejor funcionan con aplicaciones web. Permiten más complejidad que los SV, por lo que son más complejos de leer.
--XML o eXtensible Markup Languaje. Son más complicados de leer y, por tanto, trabajar con ellos.
+- SV o valores separados por cualquier valor, aunque los más comunes son los CSV. Son los más sencillos, pero también los menos estandarizados. La mayoría de los recursos disponibles en los catálogos de Datos Abiertos se encuentran en formato CSV.
+- JSON o JavaScript Object Notation. Son los ficheros que mejor funcionan con aplicaciones web. Permiten más complejidad que los SV, por lo que son más complejos de leer.
+- XML o eXtensible Markup Languaje. Son más complicados de leer y, por tanto, trabajar con ellos.
 
 **25. Si quisieras ver la web theguardian.com, ¿cómo lo harías desde la línea de comandos?**
 
